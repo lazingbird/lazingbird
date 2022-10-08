@@ -6,8 +6,8 @@
 <br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=dark" alt="My most used languages"/>
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 <!--
 **lazingbird/lazingbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
