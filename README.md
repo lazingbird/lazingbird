@@ -6,11 +6,8 @@
 <br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=dark" alt="My most used languages"/>
   
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lazingbird&theme=dark" alt="WakaTime"/>
-
-<!--
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=dark" alt="WakaTime"/>
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **lazingbird/lazingbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
