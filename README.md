@@ -2,11 +2,11 @@
 
 🔭 I’m currently working on improving my coding skills studying HTML, CSS and JavaScript with help of ["The Odin Project"](https://www.theodinproject.com), an open-source community-made web development course, and some ["Origamid"](https://www.origamid.com/) courses.
 <br>
-<br>
-<br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=dark" alt="My most used languages"/>
   
 <!--START_SECTION:waka-->
+  
+  
 <!--END_SECTION:waka-->
 
 <!--
