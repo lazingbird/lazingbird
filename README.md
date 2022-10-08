@@ -5,8 +5,20 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=dark" alt="My most used languages"/>
   
 <!--START_SECTION:waka-->
-  
-  
+
+```text
+From: 15 February 2022 - To: 08 October 2022
+
+Total Time: 55 hrs 16 mins
+
+CSS          18 hrs 20 mins  >>>>>>>>-----------------   33.18 %
+Python       18 hrs 8 mins   >>>>>>>>-----------------   32.81 %
+JavaScript   9 hrs 7 mins    >>>>---------------------   16.49 %
+HTML         8 hrs 57 mins   >>>>---------------------   16.21 %
+Markdown     40 mins         -------------------------   01.24 %
+XML          1 min           -------------------------   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
