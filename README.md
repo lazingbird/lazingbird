@@ -1,6 +1,6 @@
 ## My name's Lucas and welcome to my profile :)
 
-🔭 I’m currently working on improving my coding skills studying HTML, CSS and JavaScript with help of ["The Odin Project", an open-source community made web development course](https://www.theodinproject.com), and some ["Origamid"](https://www.origamid.com/) courses 
+🔭 I’m currently working on improving my coding skills studying HTML, CSS and JavaScript with help of ["The Odin Project"](https://www.theodinproject.com), an open-source community made web development course, and some ["Origamid"](https://www.origamid.com/) courses 
 
 <!--
 **lazingbird/lazingbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
