@@ -1,4 +1,4 @@
-## My name is Lucas and welcome to my profile :)
+## I'm Lucas and welcome to my profile :)
 
 🔭 I’m currently working on improving my coding skills studying HTML, CSS and JavaScript with help of ["The Odin Project"](https://www.theodinproject.com), an open-source community-made web development course, and some ["Origamid"](https://www.origamid.com/) courses.
 <br>
