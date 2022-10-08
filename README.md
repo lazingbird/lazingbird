@@ -2,15 +2,10 @@
 
 🔭 I’m currently working on improving my coding skills studying HTML, CSS and JavaScript with help of ["The Odin Project"](https://www.theodinproject.com), an open-source community-made web development course, and some ["Origamid"](https://www.origamid.com/) courses.
 
-
- <tr>
-    .[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=swift)](https://github.com/lazingbird/github-readme-stats) 
- </tr>
- <tr>
-    .[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=swift)](https://github.com/lazingbird/github-readme-stats)
-
- </tr>
-</table>
+.[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=swift)](https://github.com/lazingbird/github-readme-stats) 
+<br>
+<br>
+.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=swift)](https://github.com/lazingbird/github-readme-stats)
 
                        
 
