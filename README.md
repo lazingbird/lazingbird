@@ -2,11 +2,15 @@
 
 🔭 I’m currently working on improving my coding skills studying HTML, CSS and JavaScript with help of ["The Odin Project"](https://www.theodinproject.com), an open-source community-made web development course, and some ["Origamid"](https://www.origamid.com/) courses.
 
-.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=radical)](https://github.com/lazingbird/github-readme-stats)
+.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=dark)](https://github.com/lazingbird/github-readme-stats)
 
-.[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=radical)](https://github.com/lazingbird/github-readme-stats)
 
-[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazingbird&theme=radical)](https://github.com/lazingbird/github-readme-stats)
+
+[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazingbird&theme=dark)](https://github.com/lazingbird/github-readme-stats)
+
+
+
+.[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=dark)](https://github.com/lazingbird/github-readme-stats)
 
 
 <!--
