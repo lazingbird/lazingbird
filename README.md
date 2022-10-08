@@ -6,7 +6,7 @@
 
 .[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=radical)](https://github.com/lazingbird/github-readme-stats)
 
-[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazingbird)](https://github.com/lazingbird/github-readme-stats)
+[![Lucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazingbird&theme=radical)](https://github.com/lazingbird/github-readme-stats)
 
 
 <!--
