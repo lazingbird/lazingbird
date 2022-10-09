@@ -21,7 +21,7 @@ Other        0 secs          -------------------------   00.03 %
 
 <!--END_SECTION:waka-->
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=dark)
+<!-- ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lazingbird&show_icons=true&theme=dark)-->
 
 <!--
 **lazingbird/lazingbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
