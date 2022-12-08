@@ -7,13 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 05 December 2022
-
-Total Time: 3 hrs 4 mins
-
-CSS          1 hr 33 mins    >>>>>>>>>>>>>------------   50.49 %
-JavaScript   1 hr 22 mins    >>>>>>>>>>>--------------   44.90 %
-Other        5 mins          >------------------------   02.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
