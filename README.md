@@ -7,16 +7,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 27 December 2022
+From: 28 November 2022 - To: 28 December 2022
 
-Total Time: 9 hrs 34 mins
+Total Time: 12 hrs 47 mins
 
-JavaScript   6 hrs 24 mins   >>>>>>>>>>>>>>>>>--------   66.91 %
-CSS          1 hr 57 mins    >>>>>--------------------   20.50 %
-HTML         43 mins         >>-----------------------   07.57 %
-Git Config   12 mins         >------------------------   02.18 %
-JSON         11 mins         >------------------------   02.09 %
-Other        4 mins          -------------------------   00.75 %
+JavaScript   8 hrs 50 mins   >>>>>>>>>>>>>>>>>--------   69.05 %
+CSS          2 hrs 43 mins   >>>>>--------------------   21.35 %
+HTML         43 mins         >------------------------   05.68 %
+Git Config   12 mins         -------------------------   01.64 %
+JSON         11 mins         -------------------------   01.56 %
+Other        5 mins          -------------------------   00.72 %
 ```
 
 <!--END_SECTION:waka-->
