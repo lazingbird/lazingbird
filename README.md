@@ -7,12 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 09 February 2023
+From: 11 January 2023 - To: 10 February 2023
 
-Total Time: 10 hrs 4 mins
+Total Time: 7 hrs 50 mins
 
-C#      9 hrs 55 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.49 %
-Unity   9 mins          -------------------------   01.51 %
+C#   7 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
