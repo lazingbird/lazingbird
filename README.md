@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 19 February 2023
+From: 21 January 2023 - To: 20 February 2023
 
-Total Time: 2 hrs 20 mins
+Total Time: 1 hr 3 mins
 
-C#   2 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C#   1 hr 3 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
