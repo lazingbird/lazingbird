@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 30 December 2023
+From: 01 December 2023 - To: 31 December 2023
 
-Total Time: 70 hrs 5 mins
+Total Time: 74 hrs
 
-JavaScript   46 hrs 59 mins  >>>>>>>>>>>>>>>>>--------   67.03 %
-Ruby         8 hrs 14 mins   >>>----------------------   11.77 %
-HTML         6 hrs 26 mins   >>-----------------------   09.18 %
-CSS          5 hrs 6 mins    >>-----------------------   07.28 %
-JSON         1 hr 30 mins    >------------------------   02.14 %
+JavaScript   50 hrs 13 mins  >>>>>>>>>>>>>>>>>--------   67.86 %
+Ruby         8 hrs 14 mins   >>>----------------------   11.14 %
+HTML         6 hrs 50 mins   >>-----------------------   09.25 %
+CSS          5 hrs 7 mins    >>-----------------------   06.93 %
+JSON         1 hr 38 mins    >------------------------   02.22 %
 ```
 
 <!--END_SECTION:waka-->
