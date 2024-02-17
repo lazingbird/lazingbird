@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2024 - To: 14 February 2024
+From: 16 January 2024 - To: 15 February 2024
 
-Total Time: 62 hrs 50 mins
+Total Time: 57 hrs 32 mins
 
-JavaScript    53 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>----   84.92 %
-CSS           4 hrs 26 mins   >>-----------------------   07.07 %
-Pug           2 hrs 52 mins   >------------------------   04.57 %
-JSON          40 mins         -------------------------   01.08 %
-HTML          36 mins         -------------------------   00.97 %
+JavaScript    50 hrs 42 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.12 %
+Pug           2 hrs 52 mins   >------------------------   04.99 %
+CSS           2 hrs 1 min     >------------------------   03.53 %
+JSON          35 mins         -------------------------   01.03 %
+HTML          28 mins         -------------------------   00.82 %
 ```
 
 <!--END_SECTION:waka-->
