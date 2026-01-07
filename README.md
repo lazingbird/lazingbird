@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on improving my coding skills studying web dev with the help of ["The Odin Project"](https://www.theodinproject.com), an open-source community-made web development course, and [Full Stack Open](https://fullstackopen.com/), a course tackling modern web development.
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazingbird&theme=dark" alt="My most used languages"/>
   
 <!--START_SECTION:waka-->
 
