@@ -6,11 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2025 - To: 06 January 2026
+From: 08 December 2025 - To: 07 January 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 6 mins
 
-No activity tracked
+Java              2 hrs 10 mins   >>>>>>>>>>>>>>>>>--------   69.63 %
+SQL               23 mins         >>>----------------------   12.46 %
+Java Properties   16 mins         >>-----------------------   09.03 %
+Properties        12 mins         >>-----------------------   06.48 %
+XML               4 mins          >------------------------   02.20 %
 ```
 
 <!--END_SECTION:waka-->
