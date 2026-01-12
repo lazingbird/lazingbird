@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2025 - To: 09 January 2026
+From: 11 December 2025 - To: 10 January 2026
 
-Total Time: 17 hrs 28 mins
+Total Time: 21 hrs 2 mins
 
-Java              11 hrs 16 mins  >>>>>>>>>>>>>>>>---------   64.50 %
-HTML              2 hrs 51 mins   >>>>---------------------   16.38 %
-SQL               1 hr 44 mins    >>>----------------------   10.01 %
-Java Properties   30 mins         >------------------------   02.89 %
-GitIgnore file    19 mins         -------------------------   01.88 %
+Java              13 hrs 52 mins  >>>>>>>>>>>>>>>>---------   65.96 %
+HTML              3 hrs 46 mins   >>>>---------------------   17.96 %
+SQL               1 hr 47 mins    >>-----------------------   08.50 %
+Java Properties   30 mins         >------------------------   02.40 %
+GitIgnore file    19 mins         -------------------------   01.56 %
 ```
 
 <!--END_SECTION:waka-->
