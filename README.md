@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 10 February 2026
+From: 12 January 2026 - To: 11 February 2026
 
-Total Time: 12 hrs 50 mins
+Total Time: 9 hrs 16 mins
 
-Java        7 hrs 46 mins   >>>>>>>>>>>>>>>----------   60.52 %
-C           2 hrs 59 mins   >>>>>>-------------------   23.25 %
-XML         42 mins         >------------------------   05.55 %
-JSON        40 mins         >------------------------   05.20 %
-C#          23 mins         >------------------------   03.09 %
+Java        4 hrs 56 mins   >>>>>>>>>>>>>------------   53.37 %
+C           2 hrs 59 mins   >>>>>>>>-----------------   32.20 %
+JSON        40 mins         >>-----------------------   07.20 %
+C#          23 mins         >------------------------   04.29 %
+XML         5 mins          -------------------------   00.93 %
 ```
 
 <!--END_SECTION:waka-->
